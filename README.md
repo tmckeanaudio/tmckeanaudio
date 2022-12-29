@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @tmckeanaudio
-- 👀 I’m interested in Digital Signal Processing for Audio applications
-- 🌱 I’m currently learning Communications, Control, and Signal Processing at Northeastern University
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  :raised_hand_with_fingers_splayed: Hi, I’m @tmckeanaudio, a Graduate-Level Electrical and Computer Engineer 
+-  :brain: I’m interested in such topics as  
+          - - :loud_sound: Digital Signal Processing for Audio applications  
+          - - :speaking_head: Machine Learning Models for Speech / Voice recognition  
+          - - :headphones: Control Systems for Active Noise-Cancellation algorithms  
+- :computer: I’m currently pursuing my MSECE for Communications, Controls, and Signal Processing at Northeastern University
+- 📫 How to reach me  
+          - - :chains: [LinkedIn](https://www.linkedin.com/in/tyler-mckean/)
 
-<!---
-tmckeanaudio/tmckeanaudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmckeanaudio)](https://github.com/tmckeanaudio/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmckeanaudio)](https://github.com/anuraghazra/github-readme-stats)
